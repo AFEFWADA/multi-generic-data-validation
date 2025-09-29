@@ -1,0 +1,13 @@
+streamlit
+pandas
+matplotlib
+reportlab
+wordcloud
+scikit-learn
+pyod
+spacy
+textblob
+langdetect
+python-dateutil
+openpyxl
+xlrd
