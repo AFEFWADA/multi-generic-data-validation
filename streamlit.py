@@ -271,7 +271,7 @@ enable_nlp = st.sidebar.checkbox("Enable NLP", value=True)
 enable_ml = st.sidebar.checkbox("Enable ML Outlier Detection", value=True)
 contamination = st.sidebar.slider("Outlier contamination", min_value=0.01, max_value=0.2, value=0.05, step=0.01)
 
-st.title("📊 Data Validator + 🧠 NLP + 🔍 ML Outliers")
+st.title("📊 Data Validator ")
 
 if uploaded_file:
     try:
